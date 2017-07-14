@@ -1,5 +1,5 @@
 Download the file RGB.py, image_scale.py and place them in the same folder as your fits files. 
-The run the RGB.py and type the answers. The output will be a color image file in png format
+Then, please run the RGB.py and type the answers. The output will be a color image file in png format
 
 ####################################
 Example Usage: 
