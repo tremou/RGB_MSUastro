@@ -2,9 +2,9 @@ Download the file RGB.py, image_scale.py and place them in the same folder as yo
 Then, please run the RGB.py and type the answers. The output will be a color image file in png format
 
 ####################################
-Example Usage: 
-
+Example Usage:
  > python RGB.py; Object Name: M57;  R filter filename:R_m57.fit; B filter filename:B_m57.fit;  V filter filename:V_m57.fit
+ 
  -->output: M57_RGB.png
 ####################################
 
